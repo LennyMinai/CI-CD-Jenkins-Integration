@@ -4,7 +4,7 @@ A repository showcasing your experience integrating automated tests into a CI/CD
 ## 1. Project Overview ##
 This project demonstrates the integration of automated tests into a CI/CD pipeline using Jenkins. The goal is to automate the build, testing, and deployment process, ensuring that code changes are efficiently integrated and deployed with minimal human intervention. The project showcases a complete CI/CD pipeline configured to automatically run tests and deploy applications after successful builds.
 
-Expected duration = 2 days
+Expected duration = 7 days
 
 ## 2. Features ##
 Automated Build: Automatically triggers a build when changes are pushed to the repository.
